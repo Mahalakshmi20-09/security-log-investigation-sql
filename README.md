@@ -46,6 +46,11 @@ Authentication logs contain valuable indicators of suspicious behavior. Structur
 
 Detailed investigation scenarios and query explanations are available in the `docs/` directory.
 
+## Investigation Workflow
+
+![Investigation Workflow](wor_flow_Diagram.png)
+
+
 ## Author
 
 JM Mahalakshmi
