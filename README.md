@@ -44,7 +44,7 @@ Authentication logs contain valuable indicators of suspicious behavior. Structur
 
 ## Investigation Documentation
 
-Detailed investigation scenarios and query explanations are available in the "docs/" directory.
+Detailed investigation scenarios and query explanations are available in the `docs/` directory.
 
 ## Author
 
