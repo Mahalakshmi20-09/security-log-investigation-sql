@@ -41,6 +41,11 @@ This project simulates a structured security log analysis workflow using SQL to 
 Authentication logs contain valuable indicators of suspicious behavior. Structured query analysis enables investigators to identify abnormal access patterns, correlate events across timelines, and support early-stage incident detection in security monitoring environments.
 
 ---
+---
+
+## Investigation Documentation
+
+Detailed investigation scenarios and query explanations are available in the 'docs/' directory.
 
 ## Author
 
